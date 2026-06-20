@@ -1,0 +1,68 @@
+
+Python FullStack
+**1. What is Technology?**
+Technology refers to the tools,
+methods, and systems built using scientific knowledge to solve 
+problems or perform tasks efficiently.
+In software development, it means the programming
+languages, platforms, and tools used to build something — 
+Python, HTML, CSS, JavaScript, MySQL, and Git are all 
+technologies used in full stack Python development. Each one serves a purpose: 
+Python handles logic, HTML/CSS handle structure and design,
+SQL handles data storage.
+
+**2. What is a Framework?**
+A framework is a pre-built structure that gives developers a 
+foundation to build applications faster, instead of writing 
+everything from scratch. It provides ready-made components 
+(routing, authentication, database handling) 
+following a defined pattern. 
+In full stack Python, **Django** is the most common framework — 
+"batteries-included," with built-in admin panel, ORM,
+ authentication, and security. **Flask** is a micro-framework — 
+ gives you the basics and lets you add only what you need. 
+ A language (Python) is the raw material; a framework (Django)
+  is the toolkit that helps assemble it quickly.
+
+**3. Where it is Used**
+Django is used for web applications (e-commerce, blogs, dashboards),
+REST APIs (via Django REST Framework) for mobile/frontend integration,
+and admin-heavy systems like CRM or inventory tools 
+— companies like Instagram and Mozilla use it. 
+Flask is used for smaller apps, microservices,
+and quick prototypes. Overall: Python handles backend logic 
+and automation, HTML/CSS structure and style frontend pages,
+JavaScript adds interactivity, and SQL/MySQL store and retrieve
+data like users and transactions.
+**4. Required Skillset**
+- Python (core syntax, OOP, data structures)
+- HTML, CSS, JavaScript (frontend + interactivity)
+- Django/Flask, Django REST Framework (backend + APIs)
+- SQL, MySQL/PostgreSQL (database design and queries)
+- Git & GitHub (version control)
+- Virtual environments, Postman (tools), basic deployment knowledge
+- Debugging mindset and ability to read documentation
+
+**5. Career Opportunities**
+Roles include Full Stack Developer, Python Developer, 
+Backend Developer, and Software Engineer, hired across
+IT services companies (Wipro, TCS, Infosys), startups, 
+e-commerce, fintech, and edtech. 
+Career progression typically moves from 
+Intern → Junior Developer → Full Stack Developer → Senior Developer →
+Tech Lead. Related branches include API/backend specialization or
+data analyst roles (using Python, Pandas, NumPy).
+In India, freshers typically start around ₹3–6 LPA, 
+with strong demand for Django + DRF + SQL skills.
+
+**6. Future Scope**
+Python remains one of the most in-demand languages globally,
+ used across web, AI/ML, and automation. Full stack Python
+  developers can extend into AI-integrated apps 
+  (adding GenAI features into Django apps), cloud and deployment
+skills (AWS, Docker), and API-first/microservices architecture as
+more companies separate frontend and backend. Full stack skills
+also support freelancing and independent project building.
+Django's 15+ years of relevance shows strong long-term 
+stability for this skill path.
+
